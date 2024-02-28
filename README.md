@@ -1,1 +1,1 @@
-# DG-STGCN
+# DS-STGCN
