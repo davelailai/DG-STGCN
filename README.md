@@ -8,9 +8,9 @@ Below are quick steps for installation:
 
 ```shell
 
-git clone https://github.com/davelailai/DS-GCN.git
+git clone https://github.com/davelailai/DS-STGCN
 
-cd DS-GCN
+cd DS-STGCN
 
 conda env create -f pyskl.yaml
 
